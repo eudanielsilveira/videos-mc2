@@ -42,3 +42,6 @@ main section > ul{
     padding: 0;
 }
 
+footer p {
+    text-align: center;
+}
